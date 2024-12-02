@@ -1,8 +1,6 @@
 # Javascript
 Repositório Desenvolvimento Web II - JavaScript
 
-Aqui está um exemplo de arquivo `README.md` para o repositório sobre "var, let, const e escopo de variáveis em JavaScript":
-
 ```markdown
 # 🚀 Entendendo `var`, `let`, `const` e Escopo de Variáveis em JavaScript
 
@@ -40,7 +38,8 @@ Além disso, o conceito de **escopo** define onde as variáveis podem ser acessa
 | **Redeclaração**     | Permitida                       | Não permitida                 | Não permitida                 |
 | **Reatribuição**     | Permitida                       | Permitida                     | Não permitida                 |
 | **Hoisting**         | Sim (inicializada como `undefined`) | Sim (não inicializada)       | Sim (não inicializada)       |
-
+---
+Hoisting é um comportamento do JavaScript no qual declarações de variáveis, funções ou classes são "movidas" para o topo de seu escopo antes da execução do código. Isso significa que você pode usar variáveis e funções antes de declará-las no código, com algumas limitações e peculiaridades.
 ---
 
 ## 🌐 Tipos de Escopo
