@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Entendendo o Hoisting no JavaScript
 
 **Hoisting** é um comportamento do JavaScript onde declarações de variáveis, funções ou classes são "movidas" para o topo de seu escopo antes da execução do código. Apesar de parecer mágico, é um mecanismo fundamental da linguagem que afeta como o JavaScript processa o código.
