@@ -1,4 +1,3 @@
-const saudacao = require('./meuModulo'); // Importando o módulo
+const os = require('os'); 
 
-const mensagem = saudacao('Juia Sigma'); // Executando a função
-console.log(mensagem);
+console.log(os.platform()); 
