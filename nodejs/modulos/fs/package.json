@@ -1,8 +1,9 @@
 {
     "name": "fs",
     "version": "1.0.0",
-    "description": "",
+    "description": "Exemplo do uso de módulo nativo fs do Node.js",
     "main": "app.js",
+    "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
