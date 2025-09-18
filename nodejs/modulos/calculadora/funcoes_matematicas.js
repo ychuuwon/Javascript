@@ -1,22 +1,15 @@
-function somar(a, b) {
-    return a + b;
+export function somar(num1, num2, num3 ) {
+    return  num1 + num2 + num3;
 }
 
-function subtrair(a, b) {
+export function subtrair(a, b) {
     return a - b;
 }
 
-function multiplicar(a, b) {
+export function multiplicar(a, b) {
     return a * b;
 }
 
-function dividir(a, b) {
+export function dividir(a, b) {
     return a / b;
 }
-
-module.exports = {
-    somar,
-    subtrair,
-    multiplicar,
-    dividir
-};
