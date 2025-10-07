@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao mundo do Node.js! Este é o primeiro passo para aprender uma tecnologia poderosa e muito usada no desenvolvimento web moderno. Vamos explorar o que é o Node.js e por que ele é tão popular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
